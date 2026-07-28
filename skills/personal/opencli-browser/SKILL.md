@@ -1,3 +1,8 @@
+---
+name: opencli-browser
+description: Drive the user's logged-in Chrome via OpenCLI for page navigation, element interaction, content extraction, screenshots, and automation. Use when the user wants to open or read a web page, click/type/fill forms on a site, extract data from a page, operate sites they're logged into (Zhihu, Bilibili, Twitter, Gmail, etc.), or take a page screenshot.
+---
+
 # OpenCLI Browser
 
 通过 OpenCLI 操控用户已登录的 Chrome 浏览器，实现网页导航、元素交互、内容提取和自动化操作。

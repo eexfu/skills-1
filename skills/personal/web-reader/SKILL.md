@@ -1,3 +1,8 @@
+---
+name: web-reader
+description: Read any URL and extract its main content (including JS-rendered pages that curl/wget can't handle) for the agent to read and analyse. Use when the user shares a link and asks to look at it, summarise it, or asks what an article/post says.
+---
+
 # Web Reader
 
 通用网页阅读工具。给定任意 URL，提取其正文内容供 AI 阅读和分析。

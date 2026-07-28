@@ -1,3 +1,8 @@
+---
+name: opencli-usage
+description: Query which sites, commands, and parameters OpenCLI supports. Use when the user asks what sites OpenCLI can operate, what subcommands a site has, what arguments a command takes, or when you need to discover available adapters.
+---
+
 # OpenCLI Usage
 
 查询 OpenCLI 支持的站点、命令及其用法。
